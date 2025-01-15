@@ -51,7 +51,9 @@ Optionally, you can use your own computer and laptop to complete the home-works 
 
 <details>
 
-`<summary> `{=html} [WINDOWS people]{.underline}, Click the arrow to show your instructions</summary>
+<summary> [WINDOWS people]{.underline}, Click the arrow to show your instructions
+
+</summary>
 
 ![](Images/03_WindowsCran.png){fig-align="right" width="95%"}
 
@@ -65,7 +67,9 @@ Optionally, you can use your own computer and laptop to complete the home-works 
 
 <details>
 
-`<summary> `{=html} [MAC people]{.underline}, Click the arrow to show your instructions</summary>
+<summary> [MAC people]{.underline}, Click the arrow to show your instructions
+
+</summary>
 
 ![](Images/04_CRANR_Mac.png){fig-align="right" width="95%"}
 
@@ -97,7 +101,7 @@ Optionally, you can use your own computer and laptop to complete the home-works 
 
 -   IF YOU ARE USING WINDOWS: Double click and install as normal.
 
--   IF YOU ARE USING A MAC, double click, then [**drag the icon into applications.**]{.underline} \
+-   IF YOU ARE USING A MAC, double click, then [**drag the icon into applications.**]{.underline}\
     Nothing should happen!
 
     -   If you already have R-studio, *replace* the current one.
